@@ -2,8 +2,7 @@ Feature: Testing the functionality of application
 @test1
   Scenario Outline: Login feature
     Given user launches the home page
-      | user   | pswd   |
-      | <user> | <pswd> |
+      
 #    Then user logins successfully
 #      | user   |
 #      | <user> |
